@@ -9,4 +9,12 @@ Lightning tips: https://btcpay177475.lndyn.com/
 
 
 
-![Test Image 3](/Bitcoin.jpg)
+![Image](/Bitcoin.jpg)
+
+![Image](Fiatman.jpg)
+
+![Image](/Learn-Bitcoin.jpg)
+
+![Image](/The Internet Of money.jpg)
+
+![Image](/use Bitcoin.jpg)
