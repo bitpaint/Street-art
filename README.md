@@ -7,7 +7,7 @@ Feel free to use with credits.
 Tip with bitcoin: https://tip.bitpaint.club/
 
 
-![Image](/The internet machine.jpeg)
+![Image](https://raw.githubusercontent.com/bitpaint/Street-art/master/The%20internet%20machine.jpeg)
 
 ![Image](/Bitcoin.jpg)
 
