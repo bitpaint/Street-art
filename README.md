@@ -1,11 +1,11 @@
-# Street-art
-Bitcoin street art &amp; graffitis by Bitpaint
+#  🌇 Street-art 🌇
+Bitcoin street art &amp; graffitis.
 
-Feel free to use with credits.
+Feel free to use with credits. 
 
-1PAiNT1RvBq3hZf3M8Qj2ZQCcW7cvc4Njw
 
-Tip with bitcoin: https://tip.bitpaint.club/
+
+Tip with bitcoin: https://tip.bitpaint.club/  or 1PAiNT1RvBq3hZf3M8Qj2ZQCcW7cvc4Njw
 
 
 ![Image](https://raw.githubusercontent.com/bitpaint/Street-art/master/The%20internet%20machine.jpeg)
