@@ -7,7 +7,7 @@ Tip with bitcoin: https://tip.bitpaint.club/  or 1PAiNT1RvBq3hZf3M8Qj2ZQCcW7cvc4
 
 
 
-![Image](/Time%20For%20Plan%20B.jpg)
+![Image](/Time%20for%20Plan%20B.jpg)
 
 ![Image](/The%20internet%20machine.jpeg)
 
